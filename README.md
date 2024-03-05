@@ -2,7 +2,7 @@
 <h1> Holaa Mundo! :D  </h1>
 <h2> Soy Andres Vera </h2>
 
-<img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" align="center" style="width: 100%, marginTop: 10px" />
 </div>  
   
 
