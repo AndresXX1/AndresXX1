@@ -1,9 +1,10 @@
 <div align="center">
-<img src="https://www.softprodigy.com/storage/2021/06/JS-Development-Gif.gif" align="center" style="width: 100%" />
+<h2> console.log ("Hola comunidad")</h2>
+<img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Mi nombre es Matías Quirico 🙋‍♂️ </div>  
+### <div align="center">Me presento soy andres vera :D  </div>  
   
 
 - 🔭 Estoy recientemente graduado de la carrera de FullStack Development   
