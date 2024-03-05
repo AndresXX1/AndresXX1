@@ -1,16 +1,28 @@
 <div align="center">
-<h2> Holaa! </h2>
-### <div align="center"> Estas en el perfil de Andres Vera :D  </div>  
+<h1> Holaa Mundo! :D  </h1>
+<h2> Soy Andres Vera </h2>
+
 <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" align="center" style="width: 100%" />
 </div>  
   
 
+<div align="center">
+<a href="https://github.com/AndresXX1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/andres-vera-676414281/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+Email: andres_9_09@hotmail.com
+Telefomo +54 3512439562
+
   
 
-- 🔭 Recien graduado de programador con muchos animos de aprender mas   
+- Recien graduado de programador con muchos animos de aprender mas   
   
 
-- 🖥️Desde mui chico me intereso el mundo de la programacion asi que siempre estaba formatiando la computadora por q la dejaba sin andar xD 
+- Desde mui chico me intereso el mundo de la programacion asi que siempre estaba formatiando la computadora por q la dejaba sin andar xD 
   
 
 - Tengo conocimientos basicos en el inglges recien estoy empezando un curso pero me defiendo bien... y sobre el ingles estoy practicando jaj
@@ -29,17 +41,6 @@
 
 
 
-### A continuación: mis perfiles  
-<div align="center">
-<a href="https://github.com/AndresXX1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/andres-vera-676414281/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-Email: andres_9_09@hotmail.com
-Telefomo +54 3512439562
 
 
 <br />
