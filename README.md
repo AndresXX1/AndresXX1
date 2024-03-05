@@ -3,10 +3,6 @@
 <h2> Soy Andres Vera </h2>
 
 
-<img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" align="center" style="width: 100%, marginBottom: 10px" />
-</div>  
-  
-
 <div align="center">
 <a href="https://github.com/AndresXX1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -21,6 +17,10 @@ Email: andres_9_09@hotmail.com
 <div>
 Telefomo +54 3512439562
 </div>
+<img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" align="center" style="width: 100%, marginBottom: 10px" />
+</div>  
+  
+
 
   
 
