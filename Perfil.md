@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Texto alternativo](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/ruta/a/ejemplo.png)
+
 <!--
 **AndresXX1/AndresXX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
