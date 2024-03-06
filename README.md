@@ -1,17 +1,12 @@
-<style>
-  h3 {
-    color: blue;
-    margin-top: 20px; 
-    margin-bottom: 20px; 
-  }
-</style>
+
 
 <div align="center">
-<h3> Holaa Mundo! :D  </h3>
-<div style={{ color: "red" }}>
-<h1> Soy Andres Vera </h1>
-<div/>
-<h4 style="margin-bottom: "5px";"> FullStack Developer | Frontend | Backend</h4>
+  <h3 style="color: blue; margin-top: 20px; margin-bottom: 20px;"> Holaa Mundo! :D  </h3>
+  <div style="color: red;">
+    <h1> Soy Andres Vera </h1>
+  </div>
+  <h4 style="margin-bottom: 5px;"> FullStack Developer | Frontend | Backend</h4>
+</div>
 
 
 <div align="center">
