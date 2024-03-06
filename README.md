@@ -5,7 +5,7 @@
   <div style="color: red;">
     <h1> Soy Andres Vera </h1>
   </div>
-  <h4 style="margin-bottom: 5px; margin-top: -15px"> FullStack Developer | Frontend | Backend</h4>
+  <h4 style="margin-bottom: 25px; margin-top: -15px"> FullStack Developer | Frontend | Backend</h4>
 </div>
 
 
