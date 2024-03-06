@@ -1,9 +1,8 @@
 
 
-<div align="center">
-  <h3 style="color: blue; margin-top: 20px; margin-bottom: -10px;"> Holaa Mundo! :D  </h3>
-  <div style="color: red;">
-    <h1> Soy Andres Vera </h1>
+### Holaa Mundo! :D
+**Soy Andres Vera**
+FullStack Developer | Frontend | Backend
   </div>
   <h4 style="margin-bottom: 100px;"> FullStack Developer | Frontend | Backend</h4>
 </div>
@@ -38,13 +37,5 @@ Telefomo +54 3512439562
 <h5> Back: </h5> 
 <p> Node.js, Sequelize, Express, Morgan, Cors,</p>
 </div>
-
-
-
-
-
-
-
-<br />
 
 
