@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h3 style="color: blue; margin-top: 20px; margin-bottom: 20px;"> Holaa Mundo! :D  </h3>
+  <h3 style="color: blue; margin-top: 20px; margin-bottom: -10px;"> Holaa Mundo! :D  </h3>
   <div style="color: red;">
     <h1> Soy Andres Vera </h1>
   </div>
