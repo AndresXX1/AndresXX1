@@ -15,10 +15,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<div aling= "center">
+<div align="center">
 Email: andres_9_09@hotmail.com
 </div>
-<div aling= "center">
+<div align="center">
 Telefomo +54 3512439562
 </div>
 <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" align="center" style="width: 100%, marginBottom: 10px" />
