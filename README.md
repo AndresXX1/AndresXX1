@@ -1,6 +1,6 @@
 <div align="center">
 <h3> Holaa Mundo! :D  </h3>
-<div styles={{ color:"red"}}>
+<div style:{{ color:"red"}}>
 <h1> Soy Andres Vera </h1>
 <div/>
 <h4 style="margin-bottom: "5px";"> FullStack Developer | Frontend | Backend</h4>
