@@ -3,7 +3,7 @@
   <div>
     <h1> Soy Andres Vera </h1>
   </div>
-  <h4 style="margin-bottom: 100px;"> FullStack Developer | Frontend | Backend</h4>
+  <h4 marginTop:10px> FullStack Developer | Frontend | Backend</h4>
 </div>
 
 
