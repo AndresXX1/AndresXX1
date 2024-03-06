@@ -27,15 +27,6 @@ Telefomo +54 3512439562
 
   
 
-- Recien graduado de programador con muchos animos de aprender mas   
-  
-
-- Desde mui chico me intereso el mundo de la programacion asi que siempre estaba formatiando la computadora por q la dejaba sin andar xD 
-  
-
-- Tengo conocimientos basicos en el inglges recien estoy empezando un curso pero me defiendo bien... y sobre el ingles estoy practicando jaj
-  
-
 **<ins><div align="center">Me centro en el backend pero las dos areas me apacionan</div></ins>**  
   <div>
 <h4>Tecnologias mas utilizadas: <h4/>
