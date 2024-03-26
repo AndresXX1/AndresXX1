@@ -9,7 +9,7 @@
 
 <div align="center">
 <a href="https://github.com/AndresXX1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; margin-top:25px" />
+<img src=https://github.com/AndresXX1/Portafolios/blob/main/public/Imagen%20de%20WhatsApp%202024-03-26%20a%20las%2019.38.08_bc15edab.jpg alt=github style="margin-bottom: 5px; margin-top:25px" />
 </a>
 <a href="https://www.linkedin.com/in/andres-vera-676414281/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
