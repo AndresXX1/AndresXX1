@@ -1,7 +1,6 @@
-  <h3> Holaa Mundo! :D  </h3>
 <div align="center">
+  <h2> Holaa Mundo! :D  </h2>
   <div>
-    <h1> Soy Andres Vera </h1>
   </div>
   <h4 marginTop:10px> FullStack Developer | Frontend | Backend</h4>
 </div>
