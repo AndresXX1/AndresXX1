@@ -15,7 +15,7 @@
 Email: andres_9_09@hotmail.com
 </div>
 <div align="center">
-Telefono: +54 3512439562
+Telefono: +54-3512439562
 </div>
 <div align="center">
 Portafolios:  https://portafolios-topaz.vercel.app/
