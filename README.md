@@ -1,5 +1,6 @@
+<img src=https://github.com/AndresXX1/Portafolios/blob/main/src/assets/img/acaz.png
+  style="margin-bottom: 5px; margin-top:25px" />
 <div align="center">
-  <h2> Holaa Mundo! :D  </h2>
   <div>
   </div>
   <h4 marginTop:10px> FullStack Developer | Frontend | Backend</h4>
@@ -20,8 +21,6 @@ Telefono: +54-3512439562
 <div align="center">
 Portafolios:  https://portafolios-topaz.vercel.app/
  
-<img src=https://github.com/AndresXX1/Portafolios/blob/main/src/assets/img/acaz.png
-  style="margin-bottom: 5px; margin-top:25px" />
   
 
 
