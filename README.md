@@ -20,7 +20,7 @@ Telefono: +54-3512439562
 <div align="center">
 Portafolios:  https://portafolios-topaz.vercel.app/
  
-<img src=https://github.com/AndresXX1/Portafolios/blob/main/src/assets/img/git%20image.png 
+<img src=https://github.com/AndresXX1/Portafolios/blob/main/src/assets/img/aca.png
   style="margin-bottom: 5px; margin-top:25px" />
   
 
